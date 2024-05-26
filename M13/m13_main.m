@@ -36,7 +36,7 @@ plot(F_wyniki, x_i_1, "-", 'DisplayName', 'Wydłużenie sprężyny 1');
 hold on;
 plot(F_wyniki, x_i_2, "-", "DisplayName", "Wydłużenie sprężyny 2");
 
-xlabel('Przyłożona siła');
+xlabel('Przyłożona siła [N]');
 ylabel('Wydłużenie sprężyny [m]');
 
 title("Wydłużenie sprężyn w funkcji przyłożonej siły");
