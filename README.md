@@ -1,7 +1,7 @@
 # fizyka-matlab
 
 To repozytorium zawiera skrypty matlaba do wykonywania wybranych ćwiczeń z [Laboratorium Fizycznego Politechniki Bydgoskiej](https://wtiich.pbs.edu.pl/pl/IMiF/Dla-studentów/Laboratorium-Fizyczne). 
-Skrypty zawierają w sobie wyniki pomiarów, a w nietktórych przypadkach obliczone wielkości fizyczne.
+Skrypty zawierają w sobie wyniki pomiarów, a w niektórych przypadkach obliczone wielkości fizyczne.
 
 ## Dostępne rozwiązania
 - A.2.
