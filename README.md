@@ -21,4 +21,5 @@ Copyright (C) 2024
 
 # Licencja
 Projekt udostępniony na licencji GNU General Public License v3.0.
+
 ***Ten program nie jest objęty ABSOLUTNIE ŻADNĄ GWARANCJĄ DZIAŁANIA***.
